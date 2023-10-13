@@ -1,8 +1,6 @@
-# Customer Churn
-Customer Churn Reduction and Segmentation with NLP
-# Customer Segmentation
+The "Customer Churn Reduction and Segmentation with NLP" project is a data-driven initiative aimed at addressing customer churn and enhancing customer segmentation through the power of Natural Language Processing (NLP). The primary goal of this project is to leverage cutting-edge NLP techniques to analyze and understand customer feedback data from diverse sources, ultimately leading to a substantial reduction in customer churn rates
 
-
+# Customer Churn Reduction and Segmentation with NLP
 
 This project focuses on reducing customer churn and optimizing customer segmentation through Natural Language Processing (NLP) and machine learning techniques. By analyzing customer feedback and utilizing K-means clustering, the project aims to enhance customer retention and cross-selling strategies.
 
