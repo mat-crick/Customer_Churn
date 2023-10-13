@@ -1,6 +1,6 @@
-# Customer_Churn
+# Customer Churn
 Customer Churn Reduction and Segmentation with NLP
-# Customer Churn Reduction and Segmentation
+# Customer Segmentation
 
 
 
